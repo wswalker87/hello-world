@@ -2,3 +2,8 @@ Roses are red,
 Violets are blue, 
 I dislike regex, 
 And you should too
+
+But if you enjoy it, 
+That's okay too, 
+But me, I'd rather get hit, 
+Or maybe work at the zoo
