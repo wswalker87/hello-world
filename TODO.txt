@@ -1,0 +1,1 @@
+Add an alias for cls<>clear
