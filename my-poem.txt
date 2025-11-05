@@ -1,0 +1,4 @@
+Roses are red,
+Violets are blue, 
+I dislike regex, 
+And you should too
